@@ -2,6 +2,8 @@ package com.jiaming.dao;
 
 import java.util.List;
 
+import org.apache.ibatis.annotations.Param;
+
 import com.jiaming.entity.Book;
 
 public interface BookDao {
